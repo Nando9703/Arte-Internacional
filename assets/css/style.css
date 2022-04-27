@@ -929,6 +929,9 @@ blockquote {
   transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
   width: 100%;
 }
+.Video-Quienes-Somos{
+  height: 420px;
+}
 #contact .btn-block {
   background: hsl(0, 97%, 45%) none repeat scroll 0 0;
   border-radius: 0;
